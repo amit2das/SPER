@@ -1,6 +1,6 @@
-##02.11.18
+## 02.11.18
 
- **Tasks** 
+ * **Tasks** 
 - [x] Rounak Models **sharp error** explaination .
 2. Why that happened?
 3. Find out that reason.
