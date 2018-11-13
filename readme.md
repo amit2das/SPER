@@ -14,7 +14,7 @@
 - [ ] this is an incomplete item
 
 
-Natural Disasters | Second Header | third header | fourth header
+Natural Disasters | Terrorism   | Politics | Social Dynamics
 ------------ | ------------- | -------------|-------------- 
 http://library2.smu.ca/bitstream/handle/01/24714/luo_nannan_mrp_2012.pdf?sequence=1 - Economical paper - 
 https://ieeexplore.ieee.org/document/6300485 -The Influence of Japanese Earthquake on Global Stock Markets -; ordered clustering;hierarchical clustering; regression analysis 
