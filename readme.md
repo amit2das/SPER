@@ -30,7 +30,11 @@
      :pushpin: **Nutshell:**
      
       > Based on the continuty of time, ordered clustering is used to introduced to obtain turning points of fluctuations.
+      > detailed information during the period of before and after the earthquake is extracted to classify the composite indexes applying hierarchical clustering analysis.
+     **As a typical emergency, natural disasters always push the panic button in the crowd, and lead to a series of negative reaction, which known as -- Herd Effect** 
+     
       > 
+      
   
 -----------------
 # 2.Terrorism 
