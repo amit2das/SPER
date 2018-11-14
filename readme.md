@@ -17,19 +17,20 @@
 
 ---------------------------------------------------- 
 
-:point_right:	http://library2.smu.ca/bitstream/handle/01/24714/luo_nannan_mrp_2012.pdf?sequence=1 - Economical paper - 
+* :point_right:	http://library2.smu.ca/bitstream/handle/01/24714/luo_nannan_mrp_2012.pdf?sequence=1 - Economical paper - 
 
-:point_right:	https://ieeexplore.ieee.org/document/6300485 -The Influence of Japanese Earthquake on Global Stock Markets.(wang2012.pdf)
+* :point_right:	https://ieeexplore.ieee.org/document/6300485 -The Influence of Japanese Earthquake on Global Stock Markets.(wang2012.pdf)
  
-:pushpin: **Technique used- **
+     :pushpin: **Technique used:**
 
-    1. ordered clustering.
-    2. hierarchical clustering.
-    3. regression analysis.
-  
-      ####**Nutshell** 
-         > Based on the continuty of time, ordered clustering is used to introduced to obtain turning points of fluctuations.
-         > 
+          1. ordered clustering.
+          2. hierarchical clustering.
+          3. regression analysis.
+   
+     :pushpin: **Nutshell:**
+     
+      > Based on the continuty of time, ordered clustering is used to introduced to obtain turning points of fluctuations.
+      > 
   
 -----------------
 # 2.Terrorism 
